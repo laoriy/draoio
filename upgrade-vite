@@ -1,1 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T09:10:20.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.6.2" etag="r9-SioC-dW6cJ_TJNbZ2" type="github"><diagram id="vI_8iQTm99D1yoO6Ejit">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T10:01:35.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="OpmA0J4FSl-AZgDTP_DA" version="16.6.4" type="github">
+  <diagram id="vI_8iQTm99D1yoO6Ejit" name="Page-1">
+    <mxGraphModel dx="2500" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mI5yPzDuvIqicT113EJD-184" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-666.5" width="50" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-179" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-820" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-151" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-682.5" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-134" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-790" width="380" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-402.5" width="300" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-33" value="IDE配置：VScode + Volar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-390.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-39" value="代码格式：ts + eslint + prettier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-350.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-40" value="代码提交：husky+&amp;nbsp;&lt;span&gt;commitlint +&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;ls-lint&amp;nbsp;&lt;/span&gt;&lt;span&gt;+&amp;nbsp;lint-staged&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-308.51" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-41" target="mI5yPzDuvIqicT113EJD-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-77" value="&lt;span&gt;npm run build&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-576.1800000000001" width="120" height="34.37" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-79" value="development mode&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="-671.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-82" value="&lt;span&gt;npm run report&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-494" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-41" target="mI5yPzDuvIqicT113EJD-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-559" as="sourcePoint" />
+            <mxPoint x="300" y="-540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="-476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-84" value="&lt;span&gt;npm run dev&lt;/span&gt;&lt;br&gt;&lt;span&gt;npm run serve&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-666.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-85" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;production mode&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-594" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-86" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;report mode&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-504" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.63" y="-782.5" width="366.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-91" value="&lt;span&gt;vue单文件组件，及语法解析@vitejs/plugin-vue&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-773" width="280" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-92" value="&lt;span&gt;vue单文件组件，及语法解析@vitejs/plugin-vue-jsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-726.5" width="280" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-94" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.63" y="-664.5" width="296" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.63" y="-610" width="300" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-96" value="&lt;span&gt;unplugin-auto-import/vite&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1084.13" y="-601" width="178.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-100" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.63" y="-459" width="300" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-101" value="@element-plus/icons-vue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1084.13" y="-446.5" width="178.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-102" value="&lt;span&gt;vite-plugin-svg-icons&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1084.13" y="-402.5" width="178.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-41" target="mI5yPzDuvIqicT113EJD-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-549" as="sourcePoint" />
+            <mxPoint x="304" y="-406.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="-558" />
+              <mxPoint x="170" y="-639" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-120" value="&lt;span&gt;vite-plugin-optimize-persist&lt;/span&gt;&lt;br&gt;&lt;span&gt;针对开发环境服务启动后页面打开慢进行优化处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="-663.5" width="294.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-121" target="mI5yPzDuvIqicT113EJD-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="582" y="-588.51" width="335.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-122" value="vite-plugin-compression 对代码进行gzip打包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="-579.51" width="294.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-123" target="mI5yPzDuvIqicT113EJD-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="582" y="-505.5" width="335.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-126" value="vue及jsx处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="999.38" y="-747.5" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-127" value="unplugin-element-plus/vite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1084.13" y="-516.01" width="178.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-128" value="unplugin-vue-components/vite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1084.13" y="-558.51" width="178.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-129" value="elementPlus按需引入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1007.38" y="-551" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-131" value="svg图标使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1007.38" y="-429" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-132" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;@intlify/vite-plugin-vue-i18n&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1083.0100000000002" y="-658" width="178.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-133" value="i18n国际化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1005.38" y="-658" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-143" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-134" target="mI5yPzDuvIqicT113EJD-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="-540" as="sourcePoint" />
+            <mxPoint x="970" y="-568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-145" value="&lt;span&gt;vite-plugin-optimize-persist&lt;/span&gt;&lt;br&gt;&lt;span&gt;针对开发环境服务启动后页面打开慢进行优化处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="-663.5" width="294.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-146" target="mI5yPzDuvIqicT113EJD-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-146" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="582" y="-670.5" width="335.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-147" value="&lt;span&gt;vite-plugin-optimize-persist&lt;/span&gt;&lt;br&gt;&lt;span&gt;针对开发环境服务启动后页面打开慢进行优化处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="-661.5" width="294.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-41" target="mI5yPzDuvIqicT113EJD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mI5yPzDuvIqicT113EJD-41" target="mI5yPzDuvIqicT113EJD-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="-668.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-41" value="vue3 + vite2&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-588.51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-165" value="rollup-plugin-visualizer分析打包后的代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="-496" width="294.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-166" value="插件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="-670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-167" value="插件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-168" value="插件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="-505.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-173" value="环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="45.5" y="-460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-174" value="命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105.5" y="-588.51" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-177" value="开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-654.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-178" value="&lt;span&gt;vue3语法&amp;lt;script setup&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-740" width="180" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-185" value="vite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-588.51" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-189" value="&lt;span&gt;element-plus及&lt;/span&gt;@element-plus/icons-vue使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-775" width="250" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mI5yPzDuvIqicT113EJD-191" value="自定义组件svg-icon使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-810" width="180" height="27.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
